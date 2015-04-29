@@ -1,0 +1,25 @@
+.email, .password, .checkbox, .signin, .register {
+  box-sizing: border-box;
+}
+
+.email, .password, .signin, .register {
+  border-radius: 5px;
+  padding: 0.5%;
+  border: 1px solid gray;
+}
+
+.email, .password {
+  margin: 1%;
+}
+
+.checkbox, .signin, .register {
+  margin: 0.5%
+}
+
+.signin, .register {
+  color: white;
+}
+
+.signin {
+  background: blue;
+}
